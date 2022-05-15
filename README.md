@@ -20,12 +20,15 @@ I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a sof
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Stats
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" />
 > <img align="left" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Raji R.Yewande's github stats" />
 > <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandeXdev&" alt="wandeXdev" /></p>
+<br/>
 
 ## CONNECT WITH ME
-![Twitter](https://img.shields.io/badge/twitter/wandexdev?style=social) 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/email.svg' alt='email' height='30'>](mailto:tiwande04@gmail.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@wandeXdev)  
+
 
 
 <!--
