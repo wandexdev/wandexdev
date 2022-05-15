@@ -20,8 +20,13 @@ I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a sof
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Stats
-> <img align="left" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Raji R. Yewande's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" />
+> <img align="left" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Raji R.Yewande's github stats" />
 > <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandeXdev&" alt="wandeXdev" /></p>
+
+## CONNECT WITH ME
+![Twitter](https://img.shields.io/badge/twitter/wandexdev?style=social) 
+
 
 <!--
 **wandexdev/wandexdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
