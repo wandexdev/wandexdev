@@ -1,9 +1,10 @@
 ## Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Raji R. Yewande](https://linktr.ee/wandeXdev).
 
-I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training amd a technical writer. I have a keen eye for design and I aim to develop and use my skillset to solve major user difficulties in future.
+I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop and use my skillset to solve major user difficulties in future.
 
 ## Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -13,7 +14,14 @@ I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a sof
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## Stats
+> <img align="left" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Raji R. Yewande's github stats" />
+> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandeXdev&" alt="wandeXdev" /></p>
 
 <!--
 **wandexdev/wandexdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
