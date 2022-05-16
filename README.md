@@ -1,7 +1,8 @@
 ## Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Raji R. Yewande](https://linktr.ee/wandeXdev).
 
 I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop and use my skillset to solve major user difficulties in future.
-<br>👯 I’m looking to collaborate on DevOps or Software Engineering roles (remote or onsite) via RajiYewande@yahoo.com<br/>
+<br>
+👯 I’m looking to collaborate on DevOps or Software Engineering roles (remote or onsite) via RajiYewande@yahoo.com<br/>
 
 ## Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
