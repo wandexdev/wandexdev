@@ -1,4 +1,4 @@
-## Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Raji R. Yewande](https://linktr.ee/wandeXdev).
+## Hello there,:facepunch:I'm [Raji R. Yewande](https://linktr.ee/wandeXdev).
 
 I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop and use my skillset to solve major user difficulties in future.
 <br>
@@ -45,4 +45,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Raji R. Yewande](https://linktr.ee/wandeXdev).
+
 -->
