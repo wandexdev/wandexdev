@@ -1,4 +1,4 @@
-## Hello there, <img src="https://raw.gitusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
+## Hello there <img src="https://raw.gitusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
 
 I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop and use my skillset to solve major user difficulties in future.
 <br>
