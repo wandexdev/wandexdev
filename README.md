@@ -1,10 +1,10 @@
 ## Hello there <img src="https://raw.gitusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
 
-I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop and use my skillset to solve major user difficulties in future.
-<br>
-👯 I’m looking to collaborate on DevOps or Software Engineering roles (remote or onsite) via RajiYewande@yahoo.com<br/>
+I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop,as well as use my skillset to fix major user dilemma in future.
 
-## Skills
+* I’m looking to collaborate on DevOps or Software Engineering projects. Im allears via rajiyewande@yahoo.com
+
+## Tools and languages
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
@@ -20,11 +20,11 @@ I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a sof
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Stats
+## Github Statistics
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" />
-> <img align="left" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Raji R.Yewande's github stats" />
-> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandeXdev&" alt="wandeXdev" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Raji R.Yewande's github stats" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandeXdev&" alt="wandeXdev" /></p>
 <br/>
 
 ## CONNECT WITH ME
