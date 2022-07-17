@@ -31,7 +31,7 @@ I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a sof
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandeXdev&" alt="wandeXdev" /></p>
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=wandexdev.wandexdev"/>
-<br>
+<br>>
 
 ---
 
@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 ## Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Raji R. Yewande](https://linktr.ee/wandeXdev).
 
