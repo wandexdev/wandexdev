@@ -1,9 +1,9 @@
 ## Hello there <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px">, I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
 Pleasure to meet you.
 
-I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop,as well as use my skillset to fix major user dilemma in future.
+I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop, as well as use my skillset to fix major user dilemma in future.
 
-* I’m looking to collaborate on DevOps or Software Engineering projects. Lets work via rajiyewande@yahoo.com
+* I’m looking to collaborate on DevOps or Software Engineering projects. Lets work via tiwande04@gmail.com
 
 ---
 
@@ -27,11 +27,10 @@ I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a sof
 
 ### Github Statistics
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Raji R.Yewande's github stats" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandeXdev&" alt="wandeXdev" /></p>
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=wandexdev.wandexdev"/>
-<br>>
+<br>
 
 ---
 
