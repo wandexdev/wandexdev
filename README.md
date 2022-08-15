@@ -26,6 +26,7 @@ I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a sof
 ---
 
 ### Github Statistics
+[![](https://raw.githubusercontent.com/wandexdev/wandexdev/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" />
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandeXdev&" alt="wandeXdev" /></p> -->
 <p align="center">
