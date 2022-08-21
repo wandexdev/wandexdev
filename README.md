@@ -1,6 +1,7 @@
 <center>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </center>
+
 ## I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
 
 I'm enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a DevOps engineer in training and a technical writer. I have a keen eye for design and I aim to develop, as well as use my skillset to fix major user difficulties in future.
