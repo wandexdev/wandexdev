@@ -1,9 +1,11 @@
- ## <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" width="60px" />, I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
+ <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: "60px" />
+
+## I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
 Pleasure to meet you..
 
 I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop, as well as use my skillset to fix major user difficulties in future.
 
-* I’m looking to collaborate on AWS and Azure DevOps or Software Engineering projects. Lets work via tiwande04@gmail.com
+*Need info or collaboration on AWS/Azure DevOps or Software Engineering projects? Lets work via tiwande04@gmail.com
 
 ---
 
