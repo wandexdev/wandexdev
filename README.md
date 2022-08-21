@@ -1,4 +1,4 @@
- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: "60px" />
+ <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: "70%" />
 
 ## I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
 Pleasure to meet you..
