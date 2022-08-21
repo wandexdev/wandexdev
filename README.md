@@ -7,11 +7,9 @@ I'm developing my skill set with:
 * [IBM Full Stack Software Developer Professional Certificate](https://coursera.org/share/446ff7e78d11df6ff07ad0f1a33e938b)
 * [ALX Africa in partnership with Holberton School](https://www.holberton.com)
 * [AltSchool Africa](hhtps://altschoolafrica.com)
-<!--
-* Need info or collaboration on AWS/Azure DevOps or Software Engineering projects? Lets work via tiwande04@gmail.com
---
-<br/>
+
 ---
+
 ### Tools and languages
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
