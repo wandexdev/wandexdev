@@ -1,12 +1,13 @@
+<center>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
-
+</center>
 ##  <div align="center">I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).</div>
 
 I'm enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a DevOps engineer in training and a technical writer. I have a keen eye for design and I aim to develop, as well as use my skillset to fix major user difficulties in future.
 I'm developing my skill set with:
 * [IBM Full Stack Software Developer Professional Certificate](https://coursera.org/share/446ff7e78d11df6ff07ad0f1a33e938b)
 * [ALX Africa in partnership with Holberton School](https://www.holberton.com)
-* [AltSchool Africa](hhtps://altschoolafrica.com)
+* [AltSchool Africa](https://altschoolafrica.com)
 
 ---
 
@@ -29,7 +30,7 @@ I'm developing my skill set with:
 ---
 
 ### Github Statistics
-![Git stat](https://raw.githubusercontent.com/wandexdev/wandexdev/main/profile-summary-card-output/github/0-profile-details.svg)(https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&count_private=true&hide_border=true" align="center" />  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" />
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandeXdev&" alt="wandeXdev" /></p> -->
 <p align="center">
