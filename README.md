@@ -1,9 +1,8 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 60%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 40%" />
 
-## I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
-Pleasure to meet you..
+##  <div align="center>I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev). </div>
 
-I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop, as well as use my skillset to fix major user difficulties in future.
+I'm enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop, as well as use my skillset to fix major user difficulties in future.
 
 * Need info or collaboration on AWS/Azure DevOps or Software Engineering projects? Lets work via tiwande04@gmail.com
 
@@ -28,7 +27,7 @@ I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a sof
 ---
 
 ### Github Statistics
-[![](https://raw.githubusercontent.com/wandexdev/wandexdev/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Git stat](https://raw.githubusercontent.com/wandexdev/wandexdev/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" />
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandeXdev&" alt="wandeXdev" /></p> -->
 <p align="center">
