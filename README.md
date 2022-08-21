@@ -1,4 +1,4 @@
-<!-- ## Hello there <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px">, I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
+ ## <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" width="60px" />, I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
 Pleasure to meet you..
 
 I am enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a software engineer in training and a technical writer. I have a keen eye for design and I aim to develop, as well as use my skillset to fix major user difficulties in future.
@@ -57,4 +57,6 @@ Here are some ideas to get you started:
 
 ## Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Raji R. Yewande](https://linktr.ee/wandeXdev).
 
+## Hello there <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px">, I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
+Pleasure to meet you..
 -->
