@@ -8,7 +8,7 @@ I'm enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a DevO
 I'm developing my skill set with:
 * [IBM Full Stack Software Developer Professional Certificate](https://coursera.org/share/446ff7e78d11df6ff07ad0f1a33e938b)
 * [ALX Africa in partnership with Holberton School](https://www.holberton.com)
-* [AltSchool Africa](https://altschoolafrica.com)
+* [AltSchool Africa,Cloud Engineering](https://altschoolafrica.com)
 
 ---
 
