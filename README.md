@@ -4,11 +4,9 @@
 
 ## I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
 
-I'm enthusiastic about LINUX, DevOps and the Cloud Space as a whole. I am a DevOps engineer in training and a technical writer. I have a keen eye for design and I aim to develop, as well as use my skillset to fix major user difficulties in future.
-I'm developing my skill set with:
-* [IBM Full Stack Software Developer Professional Certificate](https://coursera.org/share/446ff7e78d11df6ff07ad0f1a33e938b)
-* [ALX Africa in partnership with Holberton School](https://www.holberton.com)
-* [AltSchool Africa,Cloud Engineering](https://altschoolafrica.com)
+I'm a professional learner. Enthusiastic about LINUX, DevOps, Automations and the Cloud Space as a whole. I am a DevOps engineer in training who seldom writes/jornals my journey via 'how to' tutorials. I'm aiming to develop, as well as use my skillset to fix major users difficulties in future.
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ---
 
