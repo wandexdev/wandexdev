@@ -4,7 +4,8 @@
 
 ## I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
 
-I'm a professional learner. Enthusiastic about LINUX, DevOps, Automations and the Cloud Space as a whole. I am a DevOps engineer in training who seldom writes/jornals my journey via 'how to' tutorials. I'm aiming to develop, as well as use my skillset to fix major users difficulties in future.
+<h3>A professional learner. Enthusiastic about LINUX, DevOps, Automations and the Cloud Space as a whole. I am a DevOps engineer in training who seldom writes/jornals my journey via 'how to' tutorials. I'm aiming to develop, as well as use my skillset to fix major users difficulties in future.</h3>
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
