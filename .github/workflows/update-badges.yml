@@ -12,4 +12,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: <risikat-raji> # optional, but default will use the same from github
+          CREDLY_USER: ${{ secrets.CREDLY_USER }} 
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: ${{ secrets.REPOSITORY }}
+          BADGE_SIZE: ${{ secrets.BADGE_SIZE }}
