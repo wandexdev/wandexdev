@@ -4,7 +4,7 @@
 
 ## I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev).
 
-<h3>A professional learner. Enthusiastic about LINUX, DevOps, Automations and the Cloud Space as a whole. I am a DevOps engineer in training who seldom writes/jornals my journey via 'how to' tutorials. I'm aiming to develop, as well as use my skillset to fix major users difficulties in future.</h3>
+<h3>A professional learner.</h3> Enthusiastic about Linux, DevOps, Automations and the Cloud Space as a whole. I am a DevOps engineer in training who seldom writes/jornals my journey via 'how to' tutorials. I'm aiming to develop, as well as use my skillset to fix major users difficulties in future.
 
 <!--START_SECTION:badges-->
 [![Introduction to Cloud Computing](https://images.credly.com/size/100x100/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png)](http://www.credly.com/badges/ea07d15f-354f-48d3-81c5-787e595e2d95 "Introduction to Cloud Computing")
