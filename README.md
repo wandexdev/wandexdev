@@ -36,8 +36,6 @@ Psyched about **Open Source** causes, **Linux**, **DevOps**, **Automations** and
 
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=wandexdev.wandexdev"/>
-![Profile views](https://gpvc.arturio.dev/wandexdev)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wandexdev.wandexdev)
 <br>
 
 ## Connect with me
