@@ -4,7 +4,7 @@
 
 ## I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev), a professional learner.
 
-Psyched about **Open Source** causes, **Linux**, **DevOps**, **Automations** and the entire **Cloud** Space as a whole. I am a **DevOps engineer** in training who seldom writes articles/tutorials to ensure no one gets as stucked as I was. I'm aiming to develop, as well as use my skillset to accelerate my organisations success and fix major users difficulties in future.
+Psyched about **Open Source** causes, **Linux**, **DevOps**, **Automations** and the entire **Cloud** Space as a whole. I am a **DevOps engineer** in training who seldom writes articles/tutorials to ensure no one gets as stucked as I was. I'm aiming to develop, as well as use my skillset to accelerate my organisations success and fix major users difficulties in future. Visit [here](https://linktr.ee/wandeXdev) for more details about me and my works.
 
 <!--START_SECTION:badges-->
 [![Introduction to Cloud Computing](https://images.credly.com/size/100x100/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png)](http://www.credly.com/badges/ea07d15f-354f-48d3-81c5-787e595e2d95 "Introduction to Cloud Computing")
@@ -35,8 +35,7 @@ Psyched about **Open Source** causes, **Linux**, **DevOps**, **Automations** and
 | ------------- | ------------- |
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=wandexdev.wandexdev"/>
-<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=wandexdev.wandexdev" alt="Profile visits" />
 
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:tiwande04@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@wandeXdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='blog' height='30'>](https://dev.to/wandexdev)
