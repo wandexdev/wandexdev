@@ -30,15 +30,17 @@ Psyched about **Open Source** causes, **Linux**, **DevOps**, **Automations** and
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 -->
 
-### Github Statistics
+## Github Statistics
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" alt="GitHub stats" /> |
 | ------------- | ------------- |
+
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=wandexdev.wandexdev"/>
+![Profile views](https://gpvc.arturio.dev/wandexdev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wandexdev.wandexdev)
 <br>
 
-
-### Connect with me
+## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:tiwande04@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@wandeXdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='blog' height='30'>](https://dev.to/wandexdev)
 
 
