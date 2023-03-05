@@ -4,15 +4,15 @@
 
 ## I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev), a professional learner.
 
-Psyched about Open Source causes, Linux, DevOps, Automations and the entire Cloud Space as a whole. I am a DevOps engineer in training who seldom writes/journals my journey via 'how to' tutorials. I'm aiming to develop, as well as use my skillset to fix major users difficulties in future.
+Psyched about **Open Source** causes, **Linux**, **DevOps**, **Automations** and the entire **Cloud** Space as a whole. I am a **DevOps engineer** in training who seldom writes articles/tutorials to ensure no one gets as stucked as I was. I'm aiming to develop, as well as use my skillset to accelerate my organisations success and fix major users difficulties in future.
 
 <!--START_SECTION:badges-->
 [![Introduction to Cloud Computing](https://images.credly.com/size/100x100/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png)](http://www.credly.com/badges/ea07d15f-354f-48d3-81c5-787e595e2d95 "Introduction to Cloud Computing")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/255a1c90-17e7-40a2-aaa9-2209fe1a46c6 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 
----
 
+<!--
 ### Tools and languages
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -28,19 +28,18 @@ Psyched about Open Source causes, Linux, DevOps, Automations and the entire Clou
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
+-->
 
 ### Github Statistics
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" alt="GitHub stats" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" alt="GitHub stats" /> |
+| ------------- | ------------- |
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=wandexdev.wandexdev"/>
 <br>
 
----
 
 ### Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:tiwande04@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@wandeXdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blog.svg' alt='blog' height='30'>](https://dev.to/wandexdev)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:tiwande04@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@wandeXdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='blog' height='30'>](https://dev.to/wandexdev)
 
 
 
