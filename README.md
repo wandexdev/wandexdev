@@ -38,7 +38,7 @@ Psyched about **Open Source** causes, **Linux**, **DevOps**, **Automations** and
 <img src="https://visitor-badge.glitch.me/badge?page_id=wandexdev.wandexdev" alt="Profile visits" />
 
 ## Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:tiwande04@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@wandeXdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='blog' height='45'>](https://dev.to/wandexdev)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:tiwande04@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@wandeXdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='blog' height='40'>](https://dev.to/wandexdev)
 
 
 
