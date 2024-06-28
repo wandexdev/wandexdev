@@ -34,8 +34,9 @@ Psyched about **Open Source** causes, **Observability**, **Linux**, **DevOps pra
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" alt="GitHub stats" /> |
 | ------------- | ------------- |
 
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=wandexdev.wandexdev" alt="Profile visits" />
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=wandexdev&&style=flat-square" align="center" />
+</div> 
 
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:tiwande04@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@wandeXdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/raji-risikat-yewande)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='blog' height='40'>](https://dev.to/wandexdev)
