@@ -7,7 +7,7 @@
 Psyched about **Open Source** causes, **Observability**, **Linux**, **DevOps practices**, **Application Performance Management**,  **Automations** and the entire **Cloud** Space as a whole. I am a **DevOps and SRE engineer**  who seldom writes articles/tutorials to ensure no one gets as stucked as I was. I'm aiming to develop, as well as use my skillset to accelerate my organisations success and fix major users difficulties in future. Visit [here](https://linktr.ee/wandeXdev) for more details about me and my works.
 
 <!--START_SECTION:badges-->
-[![Introduction to Cloud Computing](https://images.credly.com/size/100x100/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png)](http://www.credly.com/badges/ea07d15f-354f-48d3-81c5-787e595e2d95 "Introduction to Cloud Computing")
+[![Introduction to Cloud Computing](https://images.credly.com/size/100x100/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png)](https://www.credly.com/badges/ea07d15f-354f-48d3-81c5-787e595e2d95/public_url)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/255a1c90-17e7-40a2-aaa9-2209fe1a46c6 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 
