@@ -4,7 +4,7 @@
 
 ## I'm [Raji Risikat Yewande](https://linktr.ee/wandeXdev), a professional learner.
 
-Psyched about **Open Source** causes, **Observability**, **Linux**, **DevOps practices**, **Application Performance Management**,  **Automations** and the entire **Cloud** Space as a whole. I am a **DevOps and SRE engineer**  who seldom writes articles/tutorials to ensure no one gets as stucked as I was. I'm aiming to develop, as well as use my skillset to accelerate my organisations success and fix major users difficulties in future. Visit [here](https://linktr.ee/wandeXdev) for more details about me and my works.
+Psyched about **Open Source** causes, **Observability**, **Linux**, **All kinds of Telemetry Data**, **DevOps practices**, **Application Performance Management**,  **Automations** and the entire **Cloud** Space as a whole. I am a **DevOps and SRE engineer**  who seldom writes articles/tutorials to ensure no one gets as stucked as I was. I'm aiming to develop, as well as use my skillset to accelerate my organisations success and fix major users difficulties in future. Visit [here](https://linktr.ee/wandeXdev) for more details about me and my works.
 
 <!--START_SECTION:badges-->
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/d341f5d6-bbb6-4741-bb19-d74173f4ac98 "AWS Certified Solutions Architect – Associate")
@@ -31,9 +31,11 @@ Psyched about **Open Source** causes, **Observability**, **Linux**, **DevOps pra
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 -->
 
+<!--
 ## Github Statistics
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandexdev&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandeXdev&layout=compact&theme=light&hide_border=false" alt="GitHub stats" /> |
 | ------------- | ------------- |
+-->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wandexdev&&style=flat-square" align="center" />
